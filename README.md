@@ -1,5 +1,3 @@
-# Azure-Secure-Infrastructure
-
 # 🔐 Azure Secure Infrastructure — PowerShell Deployed
 
 > **A complete enterprise-grade Azure security infrastructure built from scratch using PowerShell — no portal clicking.**
